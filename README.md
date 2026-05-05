@@ -18,7 +18,7 @@ The Smart Bag Theft Detection System is an Internet of Things (IoT) security sol
 
 The following video demonstrates the hardware setup, the web interface, and the system's real-time response to simulated theft events.
 
-https://github.com/PES1UG24AM004/MPCA-Bag-Theft-Detector/assets/demo_vid.mp4
+demo_vid.mp4
 
 ## Hardware Architecture
 
